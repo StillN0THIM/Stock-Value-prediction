@@ -23,5 +23,3 @@ The project fetches data from Yahoo Finance, preprocesses it, trains a regressio
 - **matplotlib**
 
 ---
-
-## 📂 Project Structure
